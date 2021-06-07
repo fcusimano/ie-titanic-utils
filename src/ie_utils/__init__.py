@@ -4,6 +4,8 @@ IE Titanic utils.
 
 __version__ = "0.1.0" # semantic versioning (semver.org)
 
+import pandas as pd
+
 def tokenize(text):
     return text.split()
 
