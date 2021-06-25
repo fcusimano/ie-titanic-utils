@@ -8,5 +8,6 @@ author = "Francesco Cusimano"
 author-email = "f.cusimano@student.ie.edu"
 description-file = "README.md"
 requires = [
-    "pandas"
+    "pandas",
+    # "flask" we will add this in the requirements.txt file instead
 ]
