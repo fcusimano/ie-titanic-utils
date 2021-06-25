@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route("/") # this url corresponds to this function
 def home():
     return {
-        "message": "Hello world!"
+        "message": "Hello world!",
         "version": "0.1",
     }
 
