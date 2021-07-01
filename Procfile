@@ -1,1 +1,1 @@
-web: python app.py
+web: voila UI.ipynb --port 51156 --Voila.ip=0.0.0.0
